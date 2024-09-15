@@ -1,0 +1,510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjetoASP\\APIAmbiental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697E6E88-EF12-4A02-A5C3-3FE4A9021498}|..\\ApiAmbiental.Test\\APIAmbiental.Test.csproj|d:\\projetoasp\\apiambiental.test\\ambientalcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697E6E88-EF12-4A02-A5C3-3FE4A9021498}|..\\ApiAmbiental.Test\\APIAmbiental.Test.csproj|d:\\projetoasp\\apiambiental.test\\authcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\data\\contexts\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:data\\contexts\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\controllers\\ambientalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:controllers\\ambientalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\data\\repository\\condicoesambientaisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:data\\repository\\condicoesambientaisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\viewmodel\\condicoesambientaispaginacaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:viewmodel\\condicoesambientaispaginacaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\viewmodel\\condicoesambientaisviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:viewmodel\\condicoesambientaisviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Controllers\\ClienteController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\viewmodel\\createcondicoesambientaisviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:viewmodel\\createcondicoesambientaisviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\data\\repository\\icondicoesambientaisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:data\\repository\\icondicoesambientaisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\services\\icondicoesambientaisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:services\\icondicoesambientaisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClienteCreateViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClienteUpdateViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClientePaginacaoViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Data\\Repository\\ClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Data\\Repository\\IClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\services\\condicoesambientaisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:services\\condicoesambientaisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yurix\\AppData\\Local\\Temp\\Rar$DIa12088.10567\\ClienteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\models\\condicoesambientaismodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:models\\condicoesambientaismodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\apiambiental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:apiambiental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yurix\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|d:\\projetoasp\\apiambiental\\migrations\\20240626012742_addcondicoesambientais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850346EE-A9DA-41F0-9873-08E65742BABB}|APIAmbiental.csproj|solutionrelative:migrations\\20240626012742_addcondicoesambientais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AmbientalControllerTest.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\ApiAmbiental.Test\\AmbientalControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\ApiAmbiental.Test\\AmbientalControllerTest.cs",
+              "ToolTip": "D:\\ProjetoASP\\ApiAmbiental.Test\\AmbientalControllerTest.cs",
+              "RelativeToolTip": "..\\ApiAmbiental.Test\\AmbientalControllerTest.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwCsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T00:18:57.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "SwaggerConfig.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\SwaggerConfig.cs",
+              "RelativeToolTip": "SwaggerConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:45:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:08:21.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:08:14.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-25T16:08:01.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T01:00:15.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthControllerTest.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\ApiAmbiental.Test\\AuthControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\ApiAmbiental.Test\\AuthControllerTest.cs",
+              "ToolTip": "D:\\ProjetoASP\\ApiAmbiental.Test\\AuthControllerTest.cs",
+              "RelativeToolTip": "..\\ApiAmbiental.Test\\AuthControllerTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:28:15.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\Data\\Contexts\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Data\\Contexts\\DatabaseContext.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\Data\\Contexts\\DatabaseContext.cs",
+              "RelativeToolTip": "Data\\Contexts\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:28:48.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:38:00.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AmbientalController.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\Controllers\\AmbientalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AmbientalController.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\Controllers\\AmbientalController.cs",
+              "RelativeToolTip": "Controllers\\AmbientalController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:14:53.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CondicoesAmbientaisRepository.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\Data\\Repository\\CondicoesAmbientaisRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\CondicoesAmbientaisRepository.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\Data\\Repository\\CondicoesAmbientaisRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\CondicoesAmbientaisRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:32:22.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:36:19.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:34:37.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:35:21.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CondicoesAmbientaisPaginacaoViewModel.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\ViewModel\\CondicoesAmbientaisPaginacaoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CondicoesAmbientaisPaginacaoViewModel.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\ViewModel\\CondicoesAmbientaisPaginacaoViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CondicoesAmbientaisPaginacaoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:32:44.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CondicoesAmbientaisViewModel.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\ViewModel\\CondicoesAmbientaisViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CondicoesAmbientaisViewModel.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\ViewModel\\CondicoesAmbientaisViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CondicoesAmbientaisViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:32:18.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "..\\..\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Controllers\\ClienteController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:47:02.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateCondicoesAmbientaisViewModel.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\ViewModel\\CreateCondicoesAmbientaisViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CreateCondicoesAmbientaisViewModel.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\ViewModel\\CreateCondicoesAmbientaisViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CreateCondicoesAmbientaisViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:35:56.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICondicoesAmbientaisRepository.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\Data\\Repository\\ICondicoesAmbientaisRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\ICondicoesAmbientaisRepository.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\Data\\Repository\\ICondicoesAmbientaisRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\ICondicoesAmbientaisRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:09:29.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICondicoesAmbientaisService.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\Services\\ICondicoesAmbientaisService.cs",
+              "RelativeDocumentMoniker": "Services\\ICondicoesAmbientaisService.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\Services\\ICondicoesAmbientaisService.cs",
+              "RelativeToolTip": "Services\\ICondicoesAmbientaisService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:36:34.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClienteCreateViewModel.cs",
+              "DocumentMoniker": "D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClienteCreateViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClienteCreateViewModel.cs",
+              "ToolTip": "D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClienteCreateViewModel.cs",
+              "RelativeToolTip": "..\\..\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClienteCreateViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:35:03.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClienteUpdateViewModel.cs",
+              "DocumentMoniker": "D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClienteUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClienteUpdateViewModel.cs",
+              "ToolTip": "D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClienteUpdateViewModel.cs",
+              "RelativeToolTip": "..\\..\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClienteUpdateViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:34:19.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClientePaginacaoViewModel.cs",
+              "DocumentMoniker": "D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClientePaginacaoViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClientePaginacaoViewModel.cs",
+              "ToolTip": "D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClientePaginacaoViewModel.cs",
+              "RelativeToolTip": "..\\..\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\ViewModel\\ClientePaginacaoViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:31:46.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Data\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Data\\Repository\\ClienteRepository.cs",
+              "ToolTip": "D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Data\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "..\\..\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Data\\Repository\\ClienteRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:29:53.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Data\\Repository\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Data\\Repository\\IClienteRepository.cs",
+              "ToolTip": "D:\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Data\\Repository\\IClienteRepository.cs",
+              "RelativeToolTip": "..\\..\\Fiap.Api.Alunos-09-paginacao\\Fiap.Api.Alunos\\Data\\Repository\\IClienteRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:29:26.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CondicoesAmbientaisService.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\Services\\CondicoesAmbientaisService.cs",
+              "RelativeDocumentMoniker": "Services\\CondicoesAmbientaisService.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\Services\\CondicoesAmbientaisService.cs",
+              "RelativeToolTip": "Services\\CondicoesAmbientaisService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:36:44.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\yurix\\AppData\\Local\\Temp\\Rar$DIa12088.10567\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\yurix\\AppData\\Local\\Temp\\Rar$DIa12088.10567\\ClienteService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:26:36.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CondicoesAmbientaisModel.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\Models\\CondicoesAmbientaisModel.cs",
+              "RelativeDocumentMoniker": "Models\\CondicoesAmbientaisModel.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\Models\\CondicoesAmbientaisModel.cs",
+              "RelativeToolTip": "Models\\CondicoesAmbientaisModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:22:02.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240626012742_AddCondicoesAmbientais.cs",
+              "DocumentMoniker": "D:\\ProjetoASP\\APIAmbiental\\Migrations\\20240626012742_AddCondicoesAmbientais.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240626012742_AddCondicoesAmbientais.cs",
+              "ToolTip": "D:\\ProjetoASP\\APIAmbiental\\Migrations\\20240626012742_AddCondicoesAmbientais.cs",
+              "RelativeToolTip": "Migrations\\20240626012742_AddCondicoesAmbientais.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:27:43.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "APIAmbiental.csproj",
+              "DocumentMoniker": "D:\\ProjetoASP\\ApiAmbiental\\APIAmbiental.csproj",
+              "RelativeDocumentMoniker": "APIAmbiental.csproj",
+              "ToolTip": "D:\\ProjetoASP\\ApiAmbiental\\APIAmbiental.csproj",
+              "RelativeToolTip": "APIAmbiental.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T17:29:40.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\yurix\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\yurix\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "ViewState": "AQIAAMEAAAAAAAAAAAApwNYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-25T17:09:26.914Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
